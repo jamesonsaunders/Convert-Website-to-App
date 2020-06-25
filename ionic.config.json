@@ -1,0 +1,7 @@
+{
+  "name": "Houston Zoo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
