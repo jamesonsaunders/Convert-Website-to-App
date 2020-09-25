@@ -8,6 +8,4 @@ This is an Ionic project that can easily be configured to turn your website into
 
 If you haven't already, check out the [Jameson Saunders YouTube Channel](https://youtube.com/c/JamesonSaunders) for web and mobile development tutorials.
 
-If you need help to build and publish the app, I have made a full course on that.
-
-[Discount on Full Course "Mobile App Development"](https://jamesonsaunders.com/offer/mobile-app-development?s=githubdescription)
+[Need more help? Schedule a call with me to learn more about how build and publish your app](https://jamesonsaunders.com/schedule-call?callId=SOIDIV_JamesonSaunders&pageId=JamesonSaunders&s=githubdescription)
