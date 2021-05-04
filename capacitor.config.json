@@ -1,6 +1,6 @@
 {
-  "appId": "com.jamesonsaunders.houstonzoo",
-  "appName": "Houston Zoo",
+  "appId": "com.everytingbalanz.balanz",
+  "appName": "Everyting Balanz",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "www",
