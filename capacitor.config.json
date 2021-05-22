@@ -1,6 +1,6 @@
 {
-  "appId": "com.jamesonsaunders.houstonzoo",
-  "appName": "Houston Zoo",
+  "appId": "com.el4ab7.exclusive.sites",
+  "appName": "Exclusive sites",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "www",
