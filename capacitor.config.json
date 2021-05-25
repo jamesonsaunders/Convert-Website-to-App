@@ -1,6 +1,6 @@
 {
-  "appId": "com.jamesonsaunders.houstonzoo",
-  "appName": "Houston Zoo",
+  "appId": "com.salahudin.toonily",
+  "appName": "Toonily",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "www",
