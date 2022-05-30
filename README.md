@@ -2,7 +2,7 @@
 
 This project accompanies the [Jameson Saunders](https://jamesonsaunders.com) YouTube video [Convert Website to App](https://youtu.be/tGYGSnbld9s) as well as the blog article [Convert Website to App](https://blog.jamesonsaunders.com/convert-website-to-app).
 
-[Need help? Jameson's service WebAppPasta is DONE FOR YOU](https://webapppasta.com/)
+Need help? [Convert Website to App with WebAppPasta](https://webapppasta.com/), a done-for-you solution available for purchase.
 
 [![Convert Website to App Tutorial](https://img.youtube.com/vi/tGYGSnbld9s/maxresdefault.jpg)](https://youtu.be/tGYGSnbld9s)
 
