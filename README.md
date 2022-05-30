@@ -2,6 +2,8 @@
 
 This project accompanies the [Jameson Saunders](https://jamesonsaunders.com) YouTube video [Convert Website to App](https://youtu.be/tGYGSnbld9s) as well as the blog article [Convert Website to App](https://blog.jamesonsaunders.com/convert-website-to-app).
 
+[Need help? Jameson's service WebAppPasta is DONE FOR YOU](https://webapppasta.com/)
+
 [![Convert Website to App Tutorial](https://img.youtube.com/vi/tGYGSnbld9s/maxresdefault.jpg)](https://youtu.be/tGYGSnbld9s)
 
 This is an Ionic project that can easily be configured to turn your website into an app.
