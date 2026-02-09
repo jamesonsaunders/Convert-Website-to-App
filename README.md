@@ -169,10 +169,10 @@ This project is open source and available under the MIT License.
 
 ## 🔗 Links
 
-- [Website to App Service] https://botgroupllc.com/website-to-app.html)
+- [Website to App Service](https://botgroupllc.com/website-to-app.html)
 - [YouTube Tutorial Website to App](https://youtu.be/yAeDQAA1QjY)
 - [Bot Group LLC Custom App Development](https://botgroupllc.com)
-- [Website App Development Article][https://medium.com/@jamesonsaunders/i-built-a-free-tool-that-converts-websites-into-apps-and-you-can-use-it-right-now-61da82fdcb79]
+- [Website App Development Article](https://medium.com/@jamesonsaunders/i-built-a-free-tool-that-converts-websites-into-apps-and-you-can-use-it-right-now-61da82fdcb79)
 
 ## ⭐ Support This Project
 
